@@ -1,0 +1,6 @@
+function hello:
+read
+%
+    Result := (cons h (cons e (cons l (cons l (cons o nil))))); 
+%
+write Result

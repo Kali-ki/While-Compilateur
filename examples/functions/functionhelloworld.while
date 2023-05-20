@@ -1,0 +1,6 @@
+function helloworld:
+read
+%
+    Result := (cons h e l l o w o r l d); 
+%
+write Result

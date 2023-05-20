@@ -1,0 +1,14 @@
+/*function main:
+read
+%
+    Un := (cons nil nil) // Test
+    Result := (add Un Un) // Test
+%
+write Result*/
+
+function main:
+read
+%
+    Result := (cons nil nil) // Test
+%
+write Result

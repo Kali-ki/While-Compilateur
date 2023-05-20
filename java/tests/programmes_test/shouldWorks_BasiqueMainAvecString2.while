@@ -1,0 +1,6 @@
+function main:
+read
+%
+    Result := (cons hello world)
+%
+write Result

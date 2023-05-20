@@ -1,0 +1,13 @@
+function false:
+read
+%
+    Result := nil
+%
+write Result
+
+function main:
+read
+%
+    Result := (fals)
+%
+write Result

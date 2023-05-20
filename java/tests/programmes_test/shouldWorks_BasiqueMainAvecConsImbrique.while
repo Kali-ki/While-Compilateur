@@ -1,0 +1,6 @@
+function main:
+read
+%
+    Result := (cons nil (cons nil nil))
+%
+write Result
